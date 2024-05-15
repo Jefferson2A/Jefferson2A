@@ -1,4 +1,11 @@
-### Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é jefferson vinicios
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+0000111490305Xsp@aluno.educacao.sp.gov.br
 
 <!--
 **Jefferson2A/Jefferson2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
